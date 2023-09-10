@@ -19,7 +19,7 @@ Informe: Se incluye un informe de clasificación que muestra el rendimiento del 
 # Uso del Modelo Pre-entrenado
 Si desea realizar predicciones en nuevas imágenes, puede utilizar el modelo pre-entrenado proporcionado. Simplemente cargue el modelo y sus pesos utilizando el código proporcionado en el archivo y llame a la función predict_class(image_path) para obtener la clasificación de una imagen específica.
 
-$ Requisitos de Software
+# Requisitos de Software
 Asegúrese de tener instaladas las siguientes bibliotecas de Python antes de ejecutar el código:
 
 TensorFlow
