@@ -22,12 +22,7 @@ Si desea realizar predicciones en nuevas imágenes, puede utilizar el modelo pre
 # Requisitos de Software
 Asegúrese de tener instaladas las siguientes bibliotecas de Python antes de ejecutar el código:
 
-TensorFlow
-Keras
-Numpy
-Matplotlib
-Seaborn
-Scikit-learn (para evaluar el rendimiento del modelo)
+TensorFlow, Keras, Numpy, Matplotlib, Seaborn, Scikit-learn (para evaluar el rendimiento del modelo)
 
 # Pasos para Ejecutar el Proyecto
 Descargue el conjunto de datos de 'CarneDataset' y colóquelo en la ubicación adecuada.
