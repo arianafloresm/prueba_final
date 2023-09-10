@@ -28,7 +28,7 @@ Numpy
 Matplotlib
 Seaborn
 Scikit-learn (para evaluar el rendimiento del modelo)
-Pasos para Ejecutar el Proyecto
+# Pasos para Ejecutar el Proyecto
 Descargue el conjunto de datos de 'CarneDataset' y colóquelo en la ubicación adecuada.
 
 Ejecute el código Python proporcionado para entrenar el modelo o realizar predicciones en nuevas imágenes.
