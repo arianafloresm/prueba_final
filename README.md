@@ -35,7 +35,7 @@ Ejecute el código Python proporcionado para entrenar el modelo o realizar predi
 
 Consulte el informe de clasificación para evaluar el rendimiento del modelo en el conjunto de datos de prueba.
 
-$ Notas Importantes
+# Notas Importantes
 Descargar las imagenes https://drive.google.com/file/d/1Z5DJ-MVS1TQV1kow9mIFWTec-ZdOLRLF/view?usp=sharing 
 
 Descargar los archivo .*h5 desde el repositorio https://mailinternacionaledu-my.sharepoint.com/:f:/g/personal/arfloresmu_uide_edu_ec/Esm13oAXuARAl-LGWoDdsCABy7u5dH21CY4gh0WK9ixk2A?e=CQD4Wc
