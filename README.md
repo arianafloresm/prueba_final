@@ -1,3 +1,6 @@
+Nombre: Ariana Maricel Flores Muñoz
+Éxito del programa aproximado del 90%, se adjunta capturas de las pruebas realizadas. 
+
 # Resumen
 
 Este proyecto se centra en el desarrollo y entrenamiento de una Red Neuronal Convolucional (CNN) utilizando la biblioteca TensorFlow y Keras para la clasificación de imágenes. La CNN se entrena para clasificar imágenes en ocho clases diferentes utilizando un conjunto de datos de imágenes de carne.
